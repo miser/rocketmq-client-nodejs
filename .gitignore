@@ -201,3 +201,5 @@ build
 package-lock.json
 .vscode
 .npmrc
+
+!files/1.2.0_UBUNTU_5.04_librocketmq.a

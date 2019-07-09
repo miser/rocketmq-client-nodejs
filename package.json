@@ -1,6 +1,6 @@
 {
   "name": "apache-rocketmq-hot",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "cppSDKVersion": "1.2.0",
   "description": "RocketMQ binding for Node.js",
   "main": "index.js",
